@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Linzhu Yue</title>
+    <link>https://linzhuyue.github.io/publication-type/2/</link>
+      <atom:link href="https://linzhuyue.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linzhuyue.github.io/media/icon_hu04041fa2424d3f847c76b598ce521e02_94882_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://linzhuyue.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Building information modeling‐based 3D reconstruction and coverage planning enabled automatic painting of interior walls using a novel painting robot in construction</title>
+      <link>https://linzhuyue.github.io/publication/zhouyang_jfr/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/publication/zhouyang_jfr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

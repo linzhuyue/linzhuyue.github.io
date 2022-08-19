@@ -5,20 +5,12 @@
     <link>https://linzhuyue.github.io/project/</link>
       <atom:link href="https://linzhuyue.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Aug 2022 21:05:17 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://linzhuyue.github.io/media/icon_hu04041fa2424d3f847c76b598ce521e02_94882_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://linzhuyue.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>My_test_proj</title>
-      <link>https://linzhuyue.github.io/project/my_test_proj/</link>
-      <pubDate>Thu, 18 Aug 2022 21:05:17 +0800</pubDate>
-      <guid>https://linzhuyue.github.io/project/my_test_proj/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Example Project</title>
