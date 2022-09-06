@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | CUHK Legged Robot Lab</title>
-    <link>https://CUHKLeggedRobotLab.github.io/publication-type/1/</link>
-      <atom:link href="https://CUHKLeggedRobotLab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <title>1 | Linzhu Yue</title>
+    <link>https://linzhuyue.github.io/publication-type/1/</link>
+      <atom:link href="https://linzhuyue.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CUHKLeggedRobotLab.github.io/media/icon_hu78cc056d28a636166799e6c071103fe6_34774_512x512_fill_lanczos_center_3.png</url>
+      <url>https://linzhuyue.github.io/media/icon_hu04041fa2424d3f847c76b598ce521e02_94882_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://CUHKLeggedRobotLab.github.io/publication-type/1/</link>
+      <link>https://linzhuyue.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>An Optimal Motion Planning Framework for Quadruped Jumping</title>
-      <link>https://CUHKLeggedRobotLab.github.io/publication/offline_jumping/</link>
+      <link>https://linzhuyue.github.io/publication/offline_jumping/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://CUHKLeggedRobotLab.github.io/publication/offline_jumping/</guid>
+      <guid>https://linzhuyue.github.io/publication/offline_jumping/</guid>
       <description></description>
     </item>
     
