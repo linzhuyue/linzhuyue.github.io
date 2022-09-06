@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Linzhu Yue</title>
-    <link>https://linzhuyue.github.io/publication_types/</link>
-      <atom:link href="https://linzhuyue.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publication_types | CUHK Legged Robot Lab</title>
+    <link>https://CUHKLeggedRobotLab.github.io/publication_types/</link>
+      <atom:link href="https://CUHKLeggedRobotLab.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://linzhuyue.github.io/media/icon_hu04041fa2424d3f847c76b598ce521e02_94882_512x512_fill_lanczos_center_3.png</url>
+      <url>https://CUHKLeggedRobotLab.github.io/media/icon_hu78cc056d28a636166799e6c071103fe6_34774_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>https://linzhuyue.github.io/publication_types/</link>
+      <link>https://CUHKLeggedRobotLab.github.io/publication_types/</link>
     </image>
     
   </channel>

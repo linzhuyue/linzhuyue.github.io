@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | CUHK Legged Robot Lab</title>
+    <link>https://CUHKLeggedRobotLab.github.io/people/</link>
+      <atom:link href="https://CUHKLeggedRobotLab.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CUHKLeggedRobotLab.github.io/media/icon_hu78cc056d28a636166799e6c071103fe6_34774_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://CUHKLeggedRobotLab.github.io/people/</link>
+    </image>
+    
+    <item>
+      <title>I focus on research quadruped walking with two pint feet, recently.</title>
+      <link>https://CUHKLeggedRobotLab.github.io/people/two_leg_walking/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/people/two_leg_walking/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Will be releasing soon.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
