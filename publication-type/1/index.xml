@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Linzhu Yue</title>
+    <link>https://linzhuyue.github.io/publication-type/1/</link>
+      <atom:link href="https://linzhuyue.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linzhuyue.github.io/media/icon_hu04041fa2424d3f847c76b598ce521e02_94882_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://linzhuyue.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</title>
+      <link>https://linzhuyue.github.io/publication/genloco_hb/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/publication/genloco_hb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Optimal Motion Planning Framework for Quadruped Jumping</title>
+      <link>https://linzhuyue.github.io/publication/offline_jumping/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/publication/offline_jumping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

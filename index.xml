@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linzhu Yue</title>
+    <link>https://linzhuyue.github.io/</link>
+      <atom:link href="https://linzhuyue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linzhu Yue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linzhuyue.github.io/media/icon_hu04041fa2424d3f847c76b598ce521e02_94882_512x512_fill_lanczos_center_3.png</url>
+      <title>Linzhu Yue</title>
+      <link>https://linzhuyue.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://linzhuyue.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</title>
+      <link>https://linzhuyue.github.io/publication/genloco_hb/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/publication/genloco_hb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I focus on research quadruped walking with two pint feet, recently.</title>
+      <link>https://linzhuyue.github.io/post/two_leg_walking/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/post/two_leg_walking/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Will be releasing soon.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadruped robot walking like lizard with two point feet</title>
+      <link>https://linzhuyue.github.io/research/quadruped_two_leg_walking/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/research/quadruped_two_leg_walking/</guid>
+      <description>&lt;p&gt;The aim of this research theme is to try to empower quadrupedal robot two point feet walking using existing gradient-based, reinforcement learning, meta-heuristic-based algorithms, etc. Currently, ongoing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Optimal Motion Planning Framework for Quadruped Jumping</title>
+      <link>https://linzhuyue.github.io/publication/offline_jumping/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/publication/offline_jumping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building information modeling‐based 3D reconstruction and coverage planning enabled automatic painting of interior walls using a novel painting robot in construction</title>
+      <link>https://linzhuyue.github.io/publication/zhouyang_jfr/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/publication/zhouyang_jfr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadruped jumping with optimal control</title>
+      <link>https://linzhuyue.github.io/research/offline_quadruped_jumping/</link>
+      <pubDate>Sun, 27 Feb 2022 10:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/research/offline_quadruped_jumping/</guid>
+      <description>&lt;p&gt;The aim of this research theme is to try to empower quadrupedal robot or bipedal robot jumping using existing gradient-based, reinforcement learning, meta-heuristic-based algorithms, etc. Currently, meta-heuristic-based online and offline jumping is implemented.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Painting Robot in construction industry (RA Work)</title>
+      <link>https://linzhuyue.github.io/research/construction_robot/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/research/construction_robot/</guid>
+      <description>&lt;p&gt;Due to the lack of experienced labor and high-quality requirements, interior painting task calls for robotic solutions in the construction field. This paper presents a robotic system aiming for the automatic interior wall painting task. The new painting robot comprises an omnidirectional mobile base and a seven degrees-of-freedom (7-DOF) redundant manipulator consisting of a 6-DOF robot arm and a 1-DOF lifting mechanism to make the painting task more flexible. Further, a building information modeling-based three-dimensional (3D) reconstruction approach is used to obtain the complete 3D model of all walls in the interior environment for automatic painting. Moreover, we propose a two-stage coverage planning framework to automatically generate optimal mobile base paths and manipulator trajectories to paint the walls. In the proposed framework, the global planner plans the painting waypoints sequence optimally. The local planner generates the mobile base poses by a new evaluation function which both ensures coverage of all painting waypoints and optimizes robot paths length. The results of field tests showed that the whole painting robot system has high environment adaptability to paint interior walls automatically. Furthermore, the planning results can significantly reduce total robot paths length compared with the previous studies. The painting robot can automatically finish a painting of 46.3 
+in 59.3 min, and this performance verifies the proposed design and algorithms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://linzhuyue.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://linzhuyue.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

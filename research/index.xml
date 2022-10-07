@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Linzhu Yue</title>
+    <link>https://linzhuyue.github.io/research/</link>
+      <atom:link href="https://linzhuyue.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linzhuyue.github.io/media/icon_hu04041fa2424d3f847c76b598ce521e02_94882_512x512_fill_lanczos_center_3.png</url>
+      <title>Researches</title>
+      <link>https://linzhuyue.github.io/research/</link>
+    </image>
+    
+    <item>
+      <title>Quadruped robot walking like lizard with two point feet</title>
+      <link>https://linzhuyue.github.io/research/quadruped_two_leg_walking/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/research/quadruped_two_leg_walking/</guid>
+      <description>&lt;p&gt;The aim of this research theme is to try to empower quadrupedal robot two point feet walking using existing gradient-based, reinforcement learning, meta-heuristic-based algorithms, etc. Currently, ongoing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadruped jumping with optimal control</title>
+      <link>https://linzhuyue.github.io/research/offline_quadruped_jumping/</link>
+      <pubDate>Sun, 27 Feb 2022 10:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/research/offline_quadruped_jumping/</guid>
+      <description>&lt;p&gt;The aim of this research theme is to try to empower quadrupedal robot or bipedal robot jumping using existing gradient-based, reinforcement learning, meta-heuristic-based algorithms, etc. Currently, meta-heuristic-based online and offline jumping is implemented.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Painting Robot in construction industry (RA Work)</title>
+      <link>https://linzhuyue.github.io/research/construction_robot/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://linzhuyue.github.io/research/construction_robot/</guid>
+      <description>&lt;p&gt;Due to the lack of experienced labor and high-quality requirements, interior painting task calls for robotic solutions in the construction field. This paper presents a robotic system aiming for the automatic interior wall painting task. The new painting robot comprises an omnidirectional mobile base and a seven degrees-of-freedom (7-DOF) redundant manipulator consisting of a 6-DOF robot arm and a 1-DOF lifting mechanism to make the painting task more flexible. Further, a building information modeling-based three-dimensional (3D) reconstruction approach is used to obtain the complete 3D model of all walls in the interior environment for automatic painting. Moreover, we propose a two-stage coverage planning framework to automatically generate optimal mobile base paths and manipulator trajectories to paint the walls. In the proposed framework, the global planner plans the painting waypoints sequence optimally. The local planner generates the mobile base poses by a new evaluation function which both ensures coverage of all painting waypoints and optimizes robot paths length. The results of field tests showed that the whole painting robot system has high environment adaptability to paint interior walls automatically. Furthermore, the planning results can significantly reduce total robot paths length compared with the previous studies. The painting robot can automatically finish a painting of 46.3 
+in 59.3 min, and this performance verifies the proposed design and algorithms.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
