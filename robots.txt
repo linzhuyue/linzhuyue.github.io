@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://linzhuyue.github.io/sitemap.xml
+Sitemap: https://anminnuo.github.io/sitemap.xml
